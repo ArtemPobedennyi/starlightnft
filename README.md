@@ -1,2 +1,1 @@
-# Doggy NFT Mint
-This is Doggy NFT Minting site on ethereum.
+# StartLightNFT Minting Website and Smart Contract
